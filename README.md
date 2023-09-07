@@ -1,2 +1,2 @@
 # lingdata
-## Alexandra Zhigulina 1 курс группа 233
+## Alexandra Zhigulina 1 курс группа БКЛ233
